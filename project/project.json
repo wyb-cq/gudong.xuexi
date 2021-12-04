@@ -1,0 +1,41 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "0F283396-4",
+    "build_number": 4,
+    "build_time": 1638364486646,
+    "release": true
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "res/icon.jpg",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": true,
+    "splashIcon": "res/icon.jpg",
+    "splashText": "Powered by Auto.js Pro",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "咕咚一键",
+  "optimization": {
+    "removeOpenCv": true,
+    "unusedResources": false
+  },
+  "packageName": "com.gudong.xuexi",
+  "publish": {
+    "category": "其他",
+    "details": "咕咚一键由“咕咚”基于autojs独立开发,为同学带来方便,此功能完全免费,如果有盗卖现象,请立马退货退款后拉黑。",
+    "maxAutoJsVersion": -1,
+    "maxProVersion": 7000401,
+    "minAutoJsVersion": -1,
+    "minProVersion": 7000401,
+    "minSdkVersion": 7,
+    "permissions": [],
+    "summary": "咕咚一键由“咕咚”基于autojs独立开发,为同学带来方便,此功能完全免费,如果有盗卖现象,请立马退货退款后拉黑。",
+    "tags": []
+  },
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.3 daily"
+}
